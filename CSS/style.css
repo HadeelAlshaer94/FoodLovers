@@ -1,0 +1,106 @@
+header {
+background:  rgba(255, 229, 72, 255);
+height: 20%;
+color: red;
+text-align: center;
+padding-top: 7px;
+padding-bottom: 1px;
+font-size: 20px;
+margin-bottom: 50px;
+}
+
+#logo{
+float: left;
+
+}
+
+#title {
+float: right;
+font-size: larger;
+color: red;
+
+}
+
+body{
+width: 100%;
+background-image: url(/Img/background.jpg);
+background-position:center;
+background-size: cover;
+
+}
+
+
+.form {
+background-color: rgba(255, 229, 72, 255) ;
+padding-top: 70px;
+padding-bottom: 60px;
+width: 25%;
+height: 250px;
+margin-left: 90px;
+float: left;
+}
+
+#submit {
+color:whitesmoke;
+font-size: medium;
+background-color: red;
+margin-top: 10px;
+width: 300px;
+height: 35px;
+}
+
+#name {
+width: 300px;
+height: 30px;
+
+}
+
+
+#foodType {
+width: 300px;
+height: 35px;
+text-align: center;
+
+}
+
+fieldset {
+color: red;
+text-align: center;
+font-size: large;
+}
+
+
+.table{
+text-align: center;
+background-color:  rgba(255, 229, 72, 255);
+width: 48%;
+height: 300px;
+padding-top: 100px;
+margin-right: 80px;
+float: right;
+padding-bottom: 90px;
+
+}
+
+#table {
+text-align: center;
+background-color: rgba(255, 229, 72, 255);
+width: 650px;
+padding-left: 70px;
+
+
+}
+
+
+th,tr {
+border: 2px red;
+font-size: 1em;
+text-align: center;
+color:black;
+background-color:blanchedalmond;
+}
+
+/* footer{
+background-color: rgba(255, 229, 72, 255);
+height: 10px;
+} */
